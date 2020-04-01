@@ -40,6 +40,13 @@ section {
 
 }
 
+#contact-me {
+  justify-content: left;
+  display: "block";
+  background-color: #91f;
+
+}
+
 #hero .profile-img {
   width: 300px;
   border-radius: 50%;
